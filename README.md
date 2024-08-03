@@ -2,7 +2,7 @@
 
 Este projeto é um aplicativo de exemplo que demonstra a utilização de navegação por abas em um aplicativo React Native. O objetivo principal é treinar o uso de tabs para exibir diferentes seções de informações de um filme, neste caso, a famosa saga **Star Wars**.
 
-https://github.com/user-attachments/assets/24ca45dc-1f13-4c73-ae81-7571f37aa7d8
+https://github.com/user-attachments/assets/514e2c0c-a4d9-4878-9875-cfce9a14a7bb
 
 ## Descrição do Projeto
 
