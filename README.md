@@ -2,6 +2,8 @@
 
 Este projeto é um aplicativo de exemplo que demonstra a utilização de navegação por abas em um aplicativo React Native. O objetivo principal é treinar o uso de tabs para exibir diferentes seções de informações de um filme, neste caso, a famosa saga **Star Wars**.
 
+https://github.com/user-attachments/assets/24ca45dc-1f13-4c73-ae81-7571f37aa7d8
+
 ## Descrição do Projeto
 
 O aplicativo **StarWars Info** é uma ferramenta interativa para visualizar informações sobre a saga Star Wars. Ele utiliza navegação por abas para organizar e exibir conteúdo de forma eficiente. As principais características incluem:
